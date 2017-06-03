@@ -5,3 +5,4 @@ pink
 orange
 green
 saffron
+red pale white
